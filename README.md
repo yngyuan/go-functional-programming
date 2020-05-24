@@ -1,5 +1,5 @@
 ## Functional Programming in Go
-
+Notes and Code from Erkid Hoxholli's video course.
 ### 1 Higher Order Functions
 
 #### 1.1 An over view of HOF
