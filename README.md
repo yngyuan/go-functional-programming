@@ -1,7 +1,8 @@
 ## Functional Programming in Go
+![func](https://github.com/yngyuan/go-functional-programming/blob/master/func.png?raw=true)
+
 Notes and Code from Erkid Hoxholli's video course.
 ### 1 Higher Order Functions
-
 #### 1.1 An over view of HOF
 ##### Functional programming
 - Functional programming is the process of building software by using pure functions, avoiding shared state, mutable data, and side effects.
